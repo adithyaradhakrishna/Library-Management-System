@@ -4,6 +4,7 @@ A simple yet functional **desktop application** for managing a library, built us
 
 ---
 
+
 ## 📝 Description
 
 This Library Management System allows librarians to manage books, issue and return records, and track inventory. It is entirely **offline**, with a user-friendly GUI and basic features implemented using **SQLite**.
